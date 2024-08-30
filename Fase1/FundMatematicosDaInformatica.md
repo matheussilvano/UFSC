@@ -42,7 +42,9 @@ Coleção de frases / fórmulas ⊢<sub>LC<sub> conclusão
 Tipos de lógica: Clássica (mais utilizada), paraconsistente, paracompletas
 
 ### Lógica proposicional
-#### Negação
-- 
+#### Negação (¬)
+- Um leão não é manso -> Não é verdade que um leão é manso -> ¬M
+  - ¬ Não é verdade que
+  - M O leão é manso
   
   
