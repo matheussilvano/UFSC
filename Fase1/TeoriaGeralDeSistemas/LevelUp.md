@@ -18,3 +18,5 @@ Como transformar o ensino em uma experiência?
   5. Viabilidade
   6. Validação da solução
   7. Banca final com especialistas (criação de uma apresentação)
+- A entrega de cada fase vale uma quantidade de pontos, que entra em uma tabela de classificação.
+- 
