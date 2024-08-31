@@ -28,5 +28,24 @@ Professores: Cristina Meinhardt e Ismael Seidel
 - O primeiro Bug foi no Harvard Mark II, onde uma barata queimou um componente
 - 1949 - EDVAC, criado por Neumann para armazenar programas, substuindo os catões perfurados (Armazenamento, processamento, autogerenciamento e interface)
 - UNIVAC I - Primeiro computador de uso geral com sucesso comercial, sendo um dos primeiros computadores no Brasil
+
+### Década de 50
+- Grace Hopper - Inventou o compilador, traduzindo linguagem de programação para linguagem de máquina
+- Dijktra criou diversos algoritmos importantes para a época, utilizados até hoje
+- Bakus desenvolveu a linguagem FORTRAN
+- Transistor (2° geração de computadores) marcou a troca das válvulas, sendo utilizado como uma chave de tamanho menor e gastando menos energia
+- Desenvolvimento da linguagem Assembly
+
+### Década de 60
+- A Computaçã se tornou uma disciplina por si só
+- ARPAnet começou a ser construída
+- 3° geração de computadires (circuitos integrados)
+- São feitos de silício, também conhecidos como microchips
+
+### Década de 70
+- 4º geração de computadores
+- Computadores mais confiáveis, rápidos e menores
+- Desenvolvimento do OS Unix
+- Desenvolvimento das linguagens de programação C, pascal e Ada
 - 
 
