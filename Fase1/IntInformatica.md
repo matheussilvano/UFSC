@@ -47,5 +47,20 @@ Professores: Cristina Meinhardt e Ismael Seidel
 - Computadores mais confiáveis, rápidos e menores
 - Desenvolvimento do OS Unix
 - Desenvolvimento das linguagens de programação C, pascal e Ada
+- Surgimento da teoria de criptografia de chave pública e sistema RSA (usado por bancos)
+- Crecimento do computador pessoal, graças à Apple
+
+### Década de 80
+- O primeiro vírus de computador foi desenvolvido (creeper)
+
+### Década de 90
+- Primeiro computador portátil, criado pela Apple
+- Surgimento do: Linux, Windows, Plug and Play
+
+### 91 - dias atuais
+- 5º geração de computadores
+- 64 bits
+- Nuvem
+- Discos rígidos superior à 600GB
 - 
 
