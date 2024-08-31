@@ -25,5 +25,8 @@ Professores: Cristina Meinhardt e Ismael Seidel
 - Aiken construiu o computador eletromecânico Mark I em 1944, em Harvard
 - Turing construiu um "computador" para decodificar mensagens alemãs, Colossus
 - ENIAC: 1º computador digital eletrônico, com o objetivo principal no cálculo de artilharia
+- O primeiro Bug foi no Harvard Mark II, onde uma barata queimou um componente
+- 1949 - EDVAC, criado por Neumann para armazenar programas, substuindo os catões perfurados (Armazenamento, processamento, autogerenciamento e interface)
+- UNIVAC I - Primeiro computador de uso geral com sucesso comercial, sendo um dos primeiros computadores no Brasil
 - 
 
