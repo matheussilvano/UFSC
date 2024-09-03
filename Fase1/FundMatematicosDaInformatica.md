@@ -52,10 +52,10 @@ Tipos de lógica: Clássica (mais utilizada), paraconsistente, paracompletas
 - O Bangladesh não é um país pobre -> ¬P (onde P é verdadeiro e ¬P é falso)
 - Tabela veritativa da negação<br>
 
-|  P | ¬P |
-| ------------- | ------------- |
-| v  | f |
-| f  | v  |
+  |  P | ¬P |
+  | ------------- | ------------- |
+  | v  | f |
+  | f  | v  |
 
 #### Adjunção (∧)
 - ∧ pode ser lido como "e"
@@ -69,13 +69,39 @@ Tipos de lógica: Clássica (mais utilizada), paraconsistente, paracompletas
  - O tigre é carnívoro é verdadeiro, mas o coelho é carnívoro é falso, logo toda a adjunção é falsa
 - Tabela veritativa da adjunção<br>
 
-|  P | Q | P^Q |
-| ------------- | ------------- | ------------- |
-| v | v | v |
-| f | v | f |
-| v | f | f |
-| f | f | f |
+  |  P | Q | P^Q |
+  | ------------- | ------------- | ------------- |
+  | v | v | v |
+  | f | v | f |
+  | v | f | f |
+  | f | f | f |
 
+- Ou seja, uma adjunção é verdadeira se, e somente se ambos os ajuntores forem verdadeiros.
+- Val(P^Q) = v sss Val(P)=Val(Q)=v
+
+#### Disjunção (v)
+- Pode ser lido como "ou"
+- P v Q } Disjunção
+- P e q São disjuntores
+- Ex: Pelo menos um dos países Rússia ou Paraguai é bem grande -> A Rússia é bem grande ou o Paraguai é bem grande -> R v P
+  - R é verdadeiro, enquanto P é falso. Logo, toda a disjunção é verdadeira
+- Ex2: Pelo menos um dos países Rússia ou Canadá é bem grande -> A Rússia é bem grande ou o Paraguai é bem grande -> R v C
+  - Tanto R quanto C são verdadeiros, logo, a disjunção é verdadeira
+- Tabela veritativa da disjunção:
+
+  |  P | Q | P^Q |
+  | ------------- | ------------- | ------------- |
+  | v | v | v |
+  | f | v | v |
+  | v | f | v |
+  | f | f | f |
+
+- Ou seja, uma disjunção é verdadeira se, e somente se pelo menos um de seus disjuntores é verdadeiro.
+- Val(PvQ) = v sss Val(P) ou Val(Q)=v
+
+#### Implicação (→)
+- Pode ser lido como "implica"
+  
 
   
   
