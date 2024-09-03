@@ -57,6 +57,25 @@ Tipos de lógica: Clássica (mais utilizada), paraconsistente, paracompletas
 | v  | f |
 | f  | v  |
 
+#### Adjunção (∧)
+- ∧ pode ser lido como "e"
+- Ex: O tigre e o leão são carnívoros -> O tigre é carnívoro e o leão é carnívoro -> T ∧ L } Adjunção
+  - T = O tigre é carnívoro
+  - L = o leão é carnívoro
+  - ^ = e
+  - T e L são adjuntores da adjunção
+  - T é verdadeiro e L é verdadeiro, logo a adjunção é verdadeira (v)
+- Ex2: O tigre e o coelho são carnívoros -> O tigre é carnívoro e o coelho é carnívoro -> T ^ C
+ - O tigre é carnívoro é verdadeiro, mas o coelho é carnívoro é falso, logo toda a adjunção é falsa
+- Tabela veritativa da adjunção<br>
+
+|  P | Q | P^Q |
+| ------------- | ------------- | ------------- |
+| v | v | v |
+| f | v | f |
+| v | f | f |
+| f | f | f |
+
 
   
   
