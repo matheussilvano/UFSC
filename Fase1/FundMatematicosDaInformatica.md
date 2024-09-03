@@ -52,9 +52,14 @@ Tipos de lógica: Clássica (mais utilizada), paraconsistente, paracompletas
 - O Bangladesh não é um país pobre -> ¬P (onde P é verdadeiro e ¬P é falso)
 - Tabela veritativa da negação<br>
 | P | ¬P |
-| --- | --- |
-| v | f |
-| f | v |
+| - | -- |
+| v | f  |
+| f | v  |
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
   
