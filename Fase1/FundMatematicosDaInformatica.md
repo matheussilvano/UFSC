@@ -51,15 +51,11 @@ Tipos de lógica: Clássica (mais utilizada), paraconsistente, paracompletas
 - No caso do exemplo do leão, ¬M é v, enquanto M é f
 - O Bangladesh não é um país pobre -> ¬P (onde P é verdadeiro e ¬P é falso)
 - Tabela veritativa da negação<br>
-| P | ¬P |
-| - | -- |
-| v | f  |
-| f | v  |
 
-| First Header  | Second Header |
+|  P | ¬P |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| v  | f |
+| f  | v  |
 
 
   
