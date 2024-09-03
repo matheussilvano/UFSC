@@ -100,8 +100,51 @@ Tipos de lógica: Clássica (mais utilizada), paraconsistente, paracompletas
 - Val(PvQ) = v sss Val(P) ou Val(Q)=v
 
 #### Implicação (→)
-- Pode ser lido como "implica"
-  
+- Leituras:
+  - Se P, então Q
+  - P implica em Q
+  - Q, se P
+  - P é suficiente para Q
+  - Q é necessário para P
+- Ex: Se houver um terremoto numa área populosa, então haverá muitas mortes -> T → M (implicação)
+  - T = houver um terremoto numa área populosa
+  - M = haverá muitas mortes
+  - Se = Antecedente
+  - Então = Consequente
 
-  
+- Tabela veritativa da disjunção:
+
+  |  P | Q | P→Q |
+  | ------------- | ------------- | ------------- |
+  | v | v | v |
+  | f | v | v |
+  | v | f | f |
+  | f | f | v |
+
+- Implicação natural vs IMplicação material:
+  - Natural: É das línguas realmente faladas.
+  - Material: É a implicação matemática da lógica clássica
+
+- Logo, uma implicação é falsa se, e somente se, seu antecedente for verdadeiro e seu consequente for falso
+- Val(P→Q)=f sss Val(P)=v e Valor(Q)=f
+
+#### Verum (T)
+- Representa frases sempre verdadeiras em um dado contexto
+- Ex: 2+3=5 } T
+- Ex2: Arthur é professor.
+- Tabela veritativa do Verum:
+
+  |  T |
+  | ------------- |
+  | v | 
+
+#### Falsum (⊥)
+- Representa frases sempre falsas em um dado contexto
+- Ex: 2+3=7 } ⊥
+- Ex2: Arthur é estivador.
+- Tabela veritativa do Falsum:
+
+  |  ⊥ |
+  | ------------- |
+  | f | 
   
