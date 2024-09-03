@@ -19,7 +19,7 @@ Reescrita moderna deste exemplo: Todo homem é mortal, Sócrates é homem ⊢<su
 LC = Lógica clássica
 
 ### Forma geral de um Sequente
-Coleção de frases / fórmulas ⊢<sub>LC<sub> conclusão
+Coleção de frases / fórmulas ⊢<sub>LC</sub> conclusão
 
 ### Níveis dos sistemas lógicos
 1. Nível proposicional -> Relativo a proposição (frase, sentença), é o nível mais elementar, estuda-se as seguintes ideias:
@@ -46,5 +46,11 @@ Tipos de lógica: Clássica (mais utilizada), paraconsistente, paracompletas
 - Um leão não é manso -> Não é verdade que um leão é manso -> ¬M
   - ¬ Não é verdade que
   - M O leão é manso
+- ¬P } é uma negação, onde P é a fórmula negada
+- Valores veritativos: É o grau de veracidade de uma fórmula, na lógica clássica existem apenas verdadeiro(v) ou falso(f)
+- No caso do exemplo do leão, ¬M é v, enquanto M é f
+- O Bangladesh não é um país pobre -> ¬P (onde P é verdadeiro e ¬P é falso)
+- 
+
   
   
