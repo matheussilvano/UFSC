@@ -12,4 +12,12 @@ if parcela > parcela_maxima:
   print('O comprador não pode comprar')
 else:
   print('O comprador pode comprar')
+
+# Elabore um programa que calcule o valor a ser pago por um produto, seu
+#programa deve perguntar o valor do produto e a condição de pagamento.
+# Considere:
+# a. à vista (dinheiro ou cheque) – 10% de desconto
+# b. 1x no cartão – 5% de desconto
+# c. 2x cartão – preço normal
+# d. 3x ou mais no cartão - 20% de juros
                   
