@@ -146,5 +146,25 @@ Tipos de lógica: Clássica (mais utilizada), paraconsistente, paracompletas
 
   |  ⊥ |
   | ------------- |
-  | f | 
+  | f |
+
+#### Definições (Def)
+Podem ser:
+- Abreviaturas
+- Reescritos
+- ⇆
+
+#### Equivalência (<->)
+- P <-> Q ⇆ (P->Q) ^ (Q->P)
+- P <-> Q é a equivalência, onde P e Q são membros
+- Leituras:
+  - P equivale à Q
+  - P é equivalente a Q
+  - P se, e somente se, Q
+  - P é necessário o suficiente para Q
+
+#### Implicação
+- Para alguém ser pediatra, ele precisa ser médico, logo, alguém ser pediatra implica que ele é médico
+- 'P se Q' = 'Se Q, então P' : Q -> P
+- 
   
