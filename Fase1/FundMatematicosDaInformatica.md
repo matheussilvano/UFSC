@@ -162,6 +162,7 @@ Podem ser:
   - P é equivalente a Q
   - P se, e somente se, Q
   - P é necessário o suficiente para Q
+- Se P não equivale a Q, é necessário usar parenteses: ¬(P->Q), pois se usar ¬P -> Q, eu afirmo que não P equivale a Q
 
 #### Implicação
 - Para alguém ser pediatra, ele precisa ser médico, logo, alguém ser pediatra implica que ele é médico
