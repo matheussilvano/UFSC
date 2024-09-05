@@ -167,5 +167,14 @@ Podem ser:
 #### Implicação
 - Para alguém ser pediatra, ele precisa ser médico, logo, alguém ser pediatra implica que ele é médico
 - 'P se Q' = 'Se Q, então P' : Q -> P
-- 
+
+### Análise Semântica de P<->Q
+P Q P->Q Q->P (P->Q)^(Q->P)
+
+| P | Q | P->Q | Q->P | (P->Q)^(Q->P) |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| v | v | v | v | v |
+| f | v | v | f | f |
+| v | f | f | v | f |
+| f | f | v | v | v | 
   
