@@ -199,4 +199,9 @@ Forma compacta:<br>
 
 Sinopse: Uma equivalência é verdadeira se, e somente se ambos os membros tiverem os mesmos valores veritativos (vv, ff)<br>
 Val(P<->Q)=v sss Val(P)=Val(Q) 
-  
+
+### Disjunção Exclusiva
+Ex: Ou Pedro cuida de sua saúde, ou ele ficará doente. -> S  D
+  - S = Pedro cuida de sua saúde
+  - D = ele ficará doente
+
