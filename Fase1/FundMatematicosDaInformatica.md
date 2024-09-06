@@ -215,3 +215,5 @@ Tabela Veritativa:
 | f | v | v |
 | v | f | v |
 | f | f | f |
+
+Uma adjunção exclusiva é verdadeira se, e somente se os se, seus componetes tiverem valores veritativos distintos
