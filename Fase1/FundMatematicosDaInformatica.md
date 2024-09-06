@@ -179,4 +179,10 @@ P Q P->Q Q->P (P->Q)^(Q->P)
 | f | f | v | v | v |
 
 Forma compacta: 
+| (P->Q)^(Q->P) |
+| ------------- |
+| v | v | v | | v | v | v |
+| f | v | v | | v | f | f |
+| v | f | f | | f | v | v |
+| f | v | f | | f | v | f |
   
