@@ -196,4 +196,7 @@ Forma compacta:<br>
 | f | v | f |
 | v | f | f |
 | f | f | v |
+
+Sinopse: Uma equivalência é verdadeira se, e somente se ambos os membros tiverem os mesmos valores veritativos (vv, ff)
+Val(P<->Q)=v sss Val(P)=Val(Q) 
   
