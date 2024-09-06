@@ -164,11 +164,11 @@ Podem ser:
   - P é necessário o suficiente para Q
 - Se P não equivale a Q, é necessário usar parenteses: ¬(P->Q), pois se usar ¬P -> Q, eu afirmo que não P equivale a Q
 
-#### Implicação
+##### Implicação
 - Para alguém ser pediatra, ele precisa ser médico, logo, alguém ser pediatra implica que ele é médico
 - 'P se Q' = 'Se Q, então P' : Q -> P
 
-### Análise Semântica de P<->Q
+##### Análise Semântica de P<->Q
 P Q P->Q Q->P (P->Q)^(Q->P)
 
 | P | Q | P->Q | Q->P | (P->Q)^(Q->P) |
@@ -186,4 +186,14 @@ Forma compacta:<br>
 | f | v | v | f | v | f | f |
 | v | f | f | f | f | v | v |
 | f | v | f | v | f | v | f |
+
+##
+
+#### Tabela veritativa de P <-> Q (Equivalência)
+| P | Q | P <-> Q |
+| - | - | ------- |
+| v | v | v |
+| f | v | f |
+| v | f | f |
+| f | f | v |
   
