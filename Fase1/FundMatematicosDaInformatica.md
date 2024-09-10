@@ -217,3 +217,12 @@ Tabela Veritativa:
 | f | f | f |
 
 Uma adjunção exclusiva é verdadeira se, e somente se os se, seus componetes tiverem valores veritativos distintos
+
+
+
+## Convencoes de pontuacão
+
+1. Dispensa do par exterior de parênteses
+2. Hierarquia de pontuação: {^,v}, ->, <->
+3. Sucessões de conectivos diáticos distintos de '->': a parentização considerada é da esquerda para a direita
+4. Sucessões do conectivo '->': a parentização é da direita para a esquerda
