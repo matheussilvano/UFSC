@@ -20,3 +20,31 @@ while numero < 50:
     else:
         ...
     numero += 1
+
+# Uma universidade particular oferece um desconto de 30% na mensalidade do
+# aluno com melhor nota (média geral). Implemente um programa que após
+# receber as informações do aluno (nome, nota/média geral, valor mensalidade)
+# verifique quem é o aluno com melhor nota e calcule o desconto de sua
+# mensalidade.
+# Ao final de sua execução, o programa deve mostrar:
+# - o nome do aluno com melhor nota,
+# - o valor da mensalidade (sem desconto) e
+# - o valor da mensalidade com o desconto e 30%;
+# Considerar 5 alunos (as informações devem ser lidas do teclado), considerar
+# alunos com notas distintas.
+
+contador = 0
+nota = 0
+while contador <= 5:
+    novo_nome_aluno = input('Digite o nome do aluno: ')
+    novo_valor_mensalidade = float(input('Insira o valor da mensalidade: '))
+    nova_media_geral = float(input('Digite a média do aluno: '))
+    if nova_media_geral > nota:
+        nota = nova_media_geral
+        valor_mensalidade = novo_valor_mensalidade
+        nome_aluno = novo_nome_aluno
+    else:
+        ...
+    contador += 1
+valor_com_desconto_mensalidade = valor_mensalidade * 0.7
+print(f'O melhor aluno {nome_aluno}, reduzirá sua mensalidade de R${valor_mensalidade} para R${valor_com_desconto_mensalidade}.')
