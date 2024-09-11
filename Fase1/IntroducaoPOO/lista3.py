@@ -48,3 +48,19 @@ while contador <= 5:
     contador += 1
 valor_com_desconto_mensalidade = valor_mensalidade * 0.7
 print(f'O melhor aluno {nome_aluno}, reduzirá sua mensalidade de R${valor_mensalidade} para R${valor_com_desconto_mensalidade}.')
+
+# Faça um programa que peça 10 números inteiros, calcule e mostre a quantidade
+# de números pares e a quantidade de números impares.
+
+contador = 0
+contador_pares = 0
+contador_impares = 0
+while contador < 10:
+    numero = int(input('Digite um número inteiro: '))
+    contador += 1
+    if numero % 2 == 0:
+        contador_pares += 1
+    else:
+        contador_impares += 1
+print(f'''Números pares: {contador_pares}
+Números ímpares: {contador_impares}''')
