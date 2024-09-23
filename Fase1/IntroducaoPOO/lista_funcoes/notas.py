@@ -13,7 +13,7 @@ for i in range(5):
 media, melhor_nota = calcular_media_e_melhor_nota(notas)
 
 # Determina o status do aluno com a melhor nota
-if media >= 5.75:
+if melhor_nota >= 5.75:
     status = "aprovado"
 elif melhor_nota >= 2.75:
     status = "em recuperação"
